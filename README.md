@@ -1,2 +1,2 @@
-# graph-thoery
+# graph-theory
 图论
